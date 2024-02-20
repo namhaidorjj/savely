@@ -9,6 +9,9 @@ export const HeaderDashboard = () => {
     NewRecordDisplayContext
   );
 
+  console.log("hhe");
+  console.log("hhaaaaa");
+
   return (
     <div>
       <div className="flex h-[72px] items-center bg-[#FFF] justify-between pl-[120px] pr-[120px]">
