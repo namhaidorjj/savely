@@ -7,6 +7,7 @@ export default function Home() {
   return (
     <div>
       <Login />
+      <p>console</p>
     </div>
   );
 }
