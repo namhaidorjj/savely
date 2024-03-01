@@ -5,10 +5,6 @@ import { Income } from "./Income";
 import { LastRecords } from "./LastRecords";
 
 export default function MainDashboard() {
-
-
-
-  
   return (
     <div className="bg-[#F3F4F6]">
       <div className="bg-[#FFF]">
